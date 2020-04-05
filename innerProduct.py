@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[17]:
-# Merve Kalpar
-# hw3 - q3
-
 def innerProduct(v1,v2):
     sum = 0
     if len(v1) == len(v2):
@@ -16,7 +12,6 @@ def innerProduct(v1,v2):
 
 
 # In[19]:
-
 
 #input lists as parameters which consists of the elements of the vectors
 #in this example, it's two vectors with n = 5 elements
